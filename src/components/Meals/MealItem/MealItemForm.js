@@ -1,1 +1,2 @@
-const MealItemForm = props
+const MealItemForm = props()
+()
